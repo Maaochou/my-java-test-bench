@@ -1,4 +1,5 @@
-A personal repo in which i explore several java tools and concepts
+A personal repo in which i explore several java tools, concepts and features,
+it doubles also as a reference for features I don't use on a regular basis.
  
 Sources:
 - Virtual threads - Rock the JVM
